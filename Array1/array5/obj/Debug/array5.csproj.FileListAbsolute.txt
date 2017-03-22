@@ -1,0 +1,6 @@
+C:\Users\solad\OneDrive\Documents\SEMESTER2\C#\Array1\array5\bin\Debug\array5.exe.config
+C:\Users\solad\OneDrive\Documents\SEMESTER2\C#\Array1\array5\bin\Debug\array5.exe
+C:\Users\solad\OneDrive\Documents\SEMESTER2\C#\Array1\array5\bin\Debug\array5.pdb
+C:\Users\solad\OneDrive\Documents\SEMESTER2\C#\Array1\array5\obj\Debug\array5.exe
+C:\Users\solad\OneDrive\Documents\SEMESTER2\C#\Array1\array5\obj\Debug\array5.pdb
+C:\Users\solad\OneDrive\Documents\SEMESTER2\C#\Array1\array5\obj\Debug\array5.csprojResolveAssemblyReference.cache
