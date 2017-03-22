@@ -1,0 +1,12 @@
+H:\progaming\filereading1\filereading2\bin\Debug\filereading2.exe.config
+H:\progaming\filereading1\filereading2\bin\Debug\filereading2.exe
+H:\progaming\filereading1\filereading2\bin\Debug\filereading2.pdb
+H:\progaming\filereading1\filereading2\obj\Debug\filereading2.exe
+H:\progaming\filereading1\filereading2\obj\Debug\filereading2.pdb
+H:\progaming\filereading1\filereading2\obj\Debug\filereading2.csprojResolveAssemblyReference.cache
+C:\Users\solad\OneDrive\Documents\SEMESTER2\C#\!programming\filereading1\filereading2\bin\Debug\filereading2.exe.config
+C:\Users\solad\OneDrive\Documents\SEMESTER2\C#\!programming\filereading1\filereading2\obj\Debug\filereading2.exe
+C:\Users\solad\OneDrive\Documents\SEMESTER2\C#\!programming\filereading1\filereading2\obj\Debug\filereading2.pdb
+C:\Users\solad\OneDrive\Documents\SEMESTER2\C#\!programming\filereading1\filereading2\bin\Debug\filereading2.exe
+C:\Users\solad\OneDrive\Documents\SEMESTER2\C#\!programming\filereading1\filereading2\bin\Debug\filereading2.pdb
+C:\Users\solad\OneDrive\Documents\SEMESTER2\C#\!programming\filereading1\filereading2\obj\Debug\filereading2.csprojResolveAssemblyReference.cache
